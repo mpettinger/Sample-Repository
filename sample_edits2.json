@@ -2,5 +2,6 @@
     "key two": "Value 2",
     "key three": 3,
     "List one":["List item one","List item two","List item 3"],
-    "List two":[0,1,2,3]
+    "List two":[0,1,2,3],
+    "List Three":[true,false,null,true,true]
 }
